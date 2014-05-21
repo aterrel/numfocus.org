@@ -1,27 +1,28 @@
 body {
   font-size: 1.8em; }
   body h1, body h2, body h3, body h4, body h5, body h6 {
-    color: #fff;
+    color: #3f4347;
     font-family: 'Oswald', sans-serif;
     font-size: 100%;
     letter-spacing: 0em; }
   body h1 {
-    color: #3f4347;
     font-size: 220%;
     text-transform: uppercase;
     margin: 35px 0 25px 0; }
   body h2 {
-    color: #3f4347;
     font-size: 155%;
     margin: 0 0 20px 0; }
   body h3 {
-    font-size: 133%;
-    text-transform: uppercase; }
+    font-size: 130%; }
   body p, body li {
     font-family: 'Open Sans', sans-serif;
     font-size: 100%;
     letter-spacing: 0em;
     color: #676970; }
+  body .home h1, body .home h2, body .home h3, body .home h4, body .home h5, body .home h6 {
+    color: #fff; }
+  body .home h3 {
+    text-transform: uppercase; }
   body .container {
     width: 1050px; }
     body .container.nopad {
@@ -79,12 +80,14 @@ header a.btn {
   header a.btn.yellow {
     color: #000;
     background-color: #fad822; }
-  header a.btn:hover.grey {
-    color: #000;
-    background-color: #b9b9b9; }
-  header a.btn:hover.yellow {
-    color: #fff;
-    background-color: #f1cc09; }
+  header a.btn:hover {
+    text-decoration: underline; }
+    header a.btn:hover.grey {
+      color: #000;
+      background-color: #bcc999; }
+    header a.btn:hover.yellow {
+      color: #fff;
+      background-color: #fad822; }
 header ul.nav {
   clear: right;
   float: right; }
@@ -274,7 +277,7 @@ section.home section.bannerWrapper {
         display: block;
         height: 100%;
         width: 100%; }
-        section.home section.bannerWrapper .banner div > a:hover:after, section.home section.bannerWrapper .banner div > a.hover:after {
+        section.home section.bannerWrapper .banner div > a:hover:after {
           content: " ";
           display: block;
           width: 350px;
@@ -285,7 +288,7 @@ section.home section.bannerWrapper {
         height: 270px;
         width: 700px;
         background: transparent url("/media/img/banner-projects-bg.png") 0 0 no-repeat; }
-        section.home section.bannerWrapper .banner div.projects a:hover:after, section.home section.bannerWrapper .banner div.projects a.hover:after {
+        section.home section.bannerWrapper .banner div.projects a:hover:after {
           width: 700px; }
       section.home section.bannerWrapper .banner div.jHunterTechFellowship {
         height: 270px;
@@ -316,8 +319,7 @@ section.home section.bannerWrapper {
       bottom: 20px;
       padding: 8px 25px 10px 15px;
       margin: 0;
-      background: rgba(0, 0, 0, 0.8);
-      cursor: pointer; }
+      background: rgba(0, 0, 0, 0.8); }
 section.home section.mission {
   padding: 48px 80px 42px 80px;
   text-align: center; }
@@ -337,13 +339,9 @@ section.home section.statistics {
     text-transform: uppercase; }
   section.home section.statistics > div {
     float: left;
-    width: 40%;
+    width: 33%;
     margin: 0 0 25px 0;
     text-align: center; }
-    section.home section.statistics > div.first {
-      margin-left: 10%; }
-    section.home section.statistics > div.last {
-      margin-right: 10%; }
     section.home section.statistics > div span {
       display: block;
       color: #2366b2;
@@ -373,3 +371,7 @@ section.board-of-directors > section {
   section.board-of-directors > section img.bio_photo {
     float: left;
     margin: 0 30px 20px 0; }
+
+section.projects img {
+  height: 65px;
+  width: auto; }

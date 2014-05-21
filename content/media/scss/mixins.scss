@@ -1,0 +1,38 @@
+
+
+@mixin clear {
+	&:after {
+		content: " ";
+		display: block;
+		height: 0;
+		clear: both;
+	}
+}
+@mixin fs($x, $relative:1.8) {
+	//font-size: $x * $relative/100;
+	font-size: 100% * $x/100;
+}
+
+@mixin oswald {
+	font-family: 'Oswald', sans-serif;
+	font-size: 100%;
+	letter-spacing: 0em;
+}
+
+@mixin openSans {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
+	letter-spacing: 0em;
+}
+
+@mixin shadow($args) {
+	-moz-box-shadow:    $args;
+	-webkit-box-shadow: $args;
+	box-shadow:         $args;
+}
+
+@mixin borderRadius($args) {
+	-webkit-border-radius: $args;
+	-moz-border-radius: $args;
+	border-radius: $args;
+}

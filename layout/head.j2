@@ -1,0 +1,46 @@
+<title>{{ resource.meta.title }}</title>
+<meta charset="utf-8" />
+
+<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+<!-- fonts -->
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,800|Oswald:400,300,700' rel='stylesheet' type='text/css'>
+
+<link href="{{ media_url('css/custom.css') }}" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="{{ media_url('img/favicon.ico') }}" type="image/x-icon">
+<link rel="icon" href="{{ media_url('img/favicon.ico') }}" type="image/x-icon">
+{% if GOOGLE_ANALYTICS_ID %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', '{{ GOOGLE_ANALYTICS_ID }}', '{{ GOOGLE_ANALYTICS_SITENAME }}');
+      ga('send', 'pageview');
+
+    </script>
+{% endif %} 
+<script type="text/javascript">
+	$(function() {
+		$('.nav li').each(function(){
+			$(this).removeClass('active');
+		})
+		console.log("-->"+location.pathname.split("/")[1]+"<--");
+    if(location.pathname.split("/")[1]!='') {
+	    $('.nav a[href^="/' + location.pathname.split("/")[1] + '"]').parents('li').addClass('active');  
+    }
+	});
+</script>
+

@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+  {% include "head.j2" %}
+  </head>
+  <body>
+  {% include "header.j2" %}
+  <section class="content">
+    <section class="container">
+      <section class="primary">
+          {% block content %}
+          {% endblock %}
+      </section>
+      <section class="sidebar">
+        {% include "sidebar.j2" %} 
+      </section>
+    </section>
+  </section> 
+  {% include "footer.j2" %}
+  </body>
+</html>

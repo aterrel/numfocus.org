@@ -1,0 +1,461 @@
+@import 'mixins';
+
+body {
+	font-size: 1.8em;
+	h1, h2, h3, h4, h5, h6 {
+		color: #3f4347;
+		@include oswald;
+	}
+	h1 {
+		@include fs(220);
+		text-transform: uppercase;
+		margin: 35px 0 25px 0;
+	}
+	h2 {
+		@include fs(155);
+		margin: 0 0 20px 0;
+	}
+	h3 {
+		@include fs(130);
+	}
+	p, li {
+		@include openSans;
+		color: #676970;
+
+	}
+	.home {
+		h1, h2, h3, h4, h5, h6 {
+			color: #fff;
+		}
+		h3 {
+			text-transform: uppercase;
+		}
+	}
+	.container {
+		width: 1050px;
+		&.nopad {
+			padding: 0;
+		}
+	}
+	section.primary {
+		margin: 20px 5% 0 0;
+		width: 65%;
+		float: left;
+		h1 {
+			margin: 15px 0 35px 0;
+		}
+		p {
+			padding-bottom: 20px;
+		}
+		ul {
+			padding:0 0 30px 50px;
+		}
+		
+	}
+	section.sidebar {
+		margin: 20px 0 0 0;
+		width: 30%;
+		float: left;
+	}
+}
+
+header {
+	> section {
+		position: relative;
+	}
+	&.downstream {
+		&:after {
+			content: " ";
+			display: block;
+			width: 100%;
+			height: 55px;
+			background-color: #194577;
+		}
+	}
+	a.header_logo {
+		display: block;
+		float: left;
+		width: 260px;
+		height: 130px;
+	}
+	div.buttons {
+		float: right;
+		margin: 15px 0 22px 0;
+	}
+	a.btn {
+		display: block;
+		line-height: 42px;
+		height: 42px;
+		width: 122px;
+		padding: 0; 
+		float: left;
+		@include shadow(1px 1px 3px rgba(0,0,0, .5));
+		@include oswald;
+		text-align: center; 
+		text-transform: uppercase;
+		&.grey {
+			color: #fff;
+			background-color: #bcbfc9;
+			margin-right: 7px;
+		}
+		&.yellow {
+			color: #000;
+			background-color: #fad822;
+		}
+		&:hover {
+			text-decoration: underline;
+			&.grey {
+				color: #000;
+				background-color: #bcc999;
+			}
+			&.yellow {
+				color: #fff;
+				background-color: #fad822;
+			}
+		}
+	}
+	ul.nav {
+		clear: right;
+		float: right;
+		> li {
+			display: inline-block;
+			float: left;
+			position: static;
+			> a {
+				color: #36373a;
+				@include openSans;
+				@include fs(120);
+				padding: 10px 20px;
+				&:hover {
+					color: #fff;
+					background-color: #194577;
+					@include borderRadius(10px 10px 0 0);
+				}
+			}
+			&.active {
+				a {
+					color: #fff;
+					background-color: #194577;
+					@include borderRadius(10px 10px 0 0);
+				}
+				> ul {
+					display: block;
+				}
+			}
+			> ul {
+				position: absolute;
+				padding: 0;
+				margin: 0;
+				top: 131px;
+				left: 0px;
+				width: 1050px;
+				height: 55px;
+				display: none;
+				> div {
+					 float: right; 
+					 width: auto;
+				}
+				 li {
+					display: inline-block;
+					float: left;
+					line-height: 55px;
+					padding: 0 20px;
+					&.active {
+						a {
+							color: #87bbf7;
+						}
+					}
+					a {
+						color: #fff;
+						@include openSans;
+						font-weight: 600;
+						text-transform: uppercase;
+					}
+					> ul {
+						display: none;
+					}
+				}
+			}
+		}
+	}
+}
+.footer {
+	background: #36373a;
+	height: 215px;
+	width: 100%;
+	margin: 60px 0 0 0;
+	.container {
+		padding: 30px 0;
+	}
+	ul.footer-nav {
+		float: left;
+		padding-left: 0;
+		margin-left: 0;
+		li {
+			list-style-type: none;
+		}
+		> li {
+			float: left;
+			margin-right: 65px;
+			a {
+				color: #fff;
+			}
+			> a {
+				text-transform: uppercase;
+			}
+			> ul {
+				padding-left: 0;
+				margin-left: 0;
+				li {
+					a {
+						@include fs(95);
+					}
+
+				}
+			}
+
+		}
+	}
+	.contact {
+		float: left;
+		h3 {
+			margin: 0 0 15px 0;
+		}
+		span {
+			color: #fff;
+			display: block;
+			line-height: 1.15em;
+		}
+		a {
+			display: block; 
+			margin-top: 20px;
+		}
+	}
+	.mailing-list {
+		float: right;
+		div.google-group {
+			background: #63656a;
+			width: 350px - 13px*2;
+			height: 110px - 13px*2;
+			padding: 13px;
+			margin: 0 0 15px 0;
+			a {
+				background-color: #5a99e2;
+				display: block;
+				margin: 8px auto;
+				width: 100px;
+			}
+		}
+		h3 {
+			margin: 0; 
+		}
+		div.social {
+			float: right;
+		}
+		a {
+			display: block;
+			float: left;
+			height: 28px;
+			width: 80px;
+			margin-right: 1px;
+			color: #fff;
+			@include oswald;
+			font-size: 85%;
+			line-height: 28px;
+			text-align: center; 
+			&.github {
+				background-color: #818ce1;
+			}
+			&.twitter {
+				background-color: #03b5ef;
+			}
+			&.google {
+				background-color: #d04040;
+			}
+		}
+	}
+}
+
+.sidebar {
+	.sponsors {
+		background-color: #f2f2f2;
+		@include borderRadius(10px);
+		width: 100%;
+		text-align: center;
+		h4 {
+			color: #c2c9d4;
+			@include openSans;
+			font-weight: 800;
+			padding: 20px 0;
+			text-transform: uppercase;
+		}
+		h5 {
+			color: #919299;
+			@include openSans;
+			font-weight: 600;
+			text-transform: uppercase;
+			padding: 0 0 20px 0;
+		}
+		div.platinum, div.gold {
+			padding: 0 0 50px;
+			ul {
+				padding: 0;
+				margin: 0;
+				li {
+					list-style-type: none;
+					margin: 0 0 30px 0;
+					img {
+						max-width: 200px;
+						max-height: 100px;
+					}
+				}
+			}
+		}
+		div.platinum {
+			border-top: 4px solid #c2c9d4;
+		}
+		div.gold {
+			border-top: 4px solid #f0d878;
+		}
+	}
+}
+
+section.home {
+	section.bannerWrapper {
+		height: 540px;
+		width: 100%;
+		background-color: #194577;
+		@include shadow(inset 0px 3px 7px rgba(0,0,0, .4));
+		.banner {
+			padding: 0;		
+			height: 540px;
+			@include shadow(inset 3px 0px 5px rgba(0,0,0, .4));
+			div {
+				float: left;
+				position: relative;
+				> a {
+					display: block;
+					height: 100%;
+					width: 100%;
+					&:hover {
+						&:after {
+							content: " ";
+							display: block;
+							width: 350px;
+							height: 270px;
+							position: absolute;
+							background: rgba(0,0,0, .5);
+						}
+					}
+				}
+				&.projects {
+					height: 270px;
+					width: 700px;
+					background: transparent url('/media/img/banner-projects-bg.png') 0 0 no-repeat;
+					a:hover {
+						&:after {
+							width: 700px;
+						}
+					}
+				}
+				&.jHunterTechFellowship {
+					height: 270px;
+					width: 350px;
+					background: transparent url('/media/img/banner-jhunterfellowship-bg.png') 0 0 no-repeat;
+				}
+				&.wit {
+					height: 270px;
+					width: 350px;
+					background: transparent url('/media/img/banner-wit-bg.png') 0 0 no-repeat;
+				}
+				&.fiscalSponsorship {
+					height: 270px;
+					width: 350px;
+					background: transparent url('/media/img/banner-fiscalsponsorship-bg.png') 0 0 no-repeat;
+				}
+				&.pydata {
+					height: 270px;
+					width: 350px;
+					background: transparent url('/media/img/banner-pydata-bg.png') 0 0 no-repeat;
+				}
+			}
+			h2 {
+				text-transform: uppercase;
+				color: #fff;
+				@include oswald; 
+				font-size: 1.7em;
+				min-height: 50px - 8px - 10px;
+				position: absolute;
+				left: 0px;
+				bottom: 20px;
+				padding: 8px 25px 10px 15px;
+				margin: 0;
+				background: rgba(0,0,0, .8);
+			}
+		}
+	}
+	section.mission {
+		padding: 48px 80px 42px 80px;
+		text-align: center;
+		p {
+			@include fs(150)
+		}
+	}
+	section.statistics {
+		background-color: #f2f2f2;
+		text-align: center;
+		h4 {
+			margin: 25px 0 40px 0;
+			color: #676970;
+			@include openSans;
+			font-weight: 800;
+			letter-spacing: 0.15em;
+			text-transform: uppercase;
+		}
+		> div {
+			float: left;
+			width: 33%;
+			margin: 0 0 25px 0;
+			text-align: center;
+			span {
+				display: block;
+				color: #2366b2;
+				@include oswald;
+				@include fs(250);
+			}
+			h5 {
+				margin: 5px 20px;
+				color: #000000;
+				font-weight: 600;
+				@include openSans;
+				text-transform: lowercase;
+			}
+		}
+		p {
+			clear: both;
+			width: 100%;
+			height: 30px;
+			padding: 0;
+			margin: 0;
+			background-color: #e4e4e4;
+			font-style: italic;
+		}
+	}
+}
+
+section.board-of-directors {
+	> section {
+		margin: 0 0 50px 0;
+		img.bio_photo {
+			float: left;
+			margin: 0 30px 20px 0;
+		}
+	}
+}
+
+section.projects {
+	img {
+		height: 65px;
+		width: auto;
+	}
+}
