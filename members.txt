@@ -1,9 +1,0 @@
-Andy Terrel
-Anthony Scopatz
-Didrik Pinte
-Emmanuelle Gouillart
-Fernando Pérez
-Jarrod Millman
-Matt Terry
-Ralf Gommers
-Travis Oliphant
