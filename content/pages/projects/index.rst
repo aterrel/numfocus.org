@@ -41,6 +41,16 @@ Julia programs are organized around `multiple dispatch`_; by defining functions 
     :alt: rOpenSci logo
     :height: 65px
 
+.. raw:: html
+
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="QVW5YFTJEFS62">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+
+
 rOpenSci is a software collective that provides R based tools to enable access to scientific data repositories, full-text of articles, and science metrics and also facilitate a culture shift in the scientific community towards reproducible research practices.
 
 `SymPy`_
