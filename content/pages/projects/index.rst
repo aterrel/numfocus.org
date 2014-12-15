@@ -91,6 +91,28 @@ Julia programs are organized around `multiple dispatch`_; by defining functions 
 rOpenSci is a software collective that provides R based tools to enable access to scientific data repositories, full-text of articles, and science metrics and also facilitate a culture shift in the scientific community towards reproducible research practices.
 
 
+`Software Carpentry`_
+----------------------
+
+.. image:: |filename|/media/img/projects/software-carpentry-logo-285x58.png
+   :alt: Software Carpentry logo
+   :height: 65px
+
+.. raw:: html
+
+   <div style="float:right">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="MYSDWRR8HWFR6">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
+
+Our mission is to help scientists be more productive by teaching them basic computing skills. Our approach combines short, intensive workshops with self-paced online instruction. The benefits are more reliable results and higher productivity: a day a week is common, and a ten-fold improvement isn’t rare.  For more information check out our blog at  `http://software-carpentry.org/blog/`_, follow us on twitter as  `@swcarpentry`_, or contact us by email at  `admin@software-carpentry.org`_.
+
+
 `SymPy`_
 ------------
 .. image:: /media/img/projects/SymPy2.jpg
@@ -270,16 +292,6 @@ yt is developed in Python under the open-source model.
 
 Educational Projects 
 ====================
-
-
-Software Carpentry
-------------------
-
-.. image:: |filename|/media/img/projects/software-carpentry-logo-285x58.png
-   :alt: Software Carpentry logo
-   :height: 65px
-
-Our mission is to help scientists be more productive by teaching them basic computing skills. Our approach combines short, intensive workshops with self-paced online instruction. The benefits are more reliable results and higher productivity: a day a week is common, and a ten-fold improvement isn’t rare.  For more information check out our blog at  `http://software-carpentry.org/blog/`_, follow us on twitter as  `@swcarpentry`_, or contact us by email at  `admin@software-carpentry.org`_.
 
 inSCIght
 --------
