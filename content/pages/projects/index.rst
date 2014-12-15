@@ -13,6 +13,17 @@ Fiscally Sponsored Projects
     :alt: AstroPy logo
     :height: 65px
 
+.. raw:: html
+
+   <div style="float:right">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="C8225F6YF7GE8">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
 The Astropy Project is a community effort to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages.
 
 
@@ -22,6 +33,19 @@ The Astropy Project is a community effort to develop a single core package for A
     :alt: IPython logo
     :height: 50px
 
+
+.. raw:: html
+
+   <div style="float:right">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="SMCAHLP2ST42G">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
+
 High quality open source Python shell that includes tools for high level and
 interactive parallel computing.
 
@@ -30,6 +54,18 @@ interactive parallel computing.
 .. image:: /media/img/projects/julia_logo.png
     :alt: Julia logo
     :height: 65px
+
+.. raw:: html
+
+   <div style="float:right">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="5U2RF4SRLY23U">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
 
 Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, `distributed parallel execution`_, numerical accuracy, and an `extensive mathematical function library`_. The library, largely written in Julia itself, also integrates mature, best-of-breed C and Fortran libraries for `linear algebra`_, `random number generation`_, `signal processing`_, and `string processing`_. In addition, the Julia developer community is contributing a number of `external packages`_ through Julia’s built-in package manager at a rapid pace. `IJulia`_, a collaboration between the `IPython`_ and Julia communities, provides a powerful browser-based graphical notebook interface to Julia.
 
@@ -43,21 +79,35 @@ Julia programs are organized around `multiple dispatch`_; by defining functions 
 
 .. raw:: html
 
+   <div style="float:right">
    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
    <input type="hidden" name="cmd" value="_s-xclick">
    <input type="hidden" name="hosted_button_id" value="QVW5YFTJEFS62">
    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
    </form>
-
+   </div>
 
 rOpenSci is a software collective that provides R based tools to enable access to scientific data repositories, full-text of articles, and science metrics and also facilitate a culture shift in the scientific community towards reproducible research practices.
+
 
 `SymPy`_
 ------------
 .. image:: /media/img/projects/SymPy2.jpg
     :alt: SymPy logo
     :height: 65px
+
+.. raw:: html
+
+   <div style="float:right">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="XKSAZ7DA6E4LL">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
 
 SymPy is a Python library for symbolic mathematics. It aims to become a
 full-featured computer algebra system (CAS) while keeping the code as simple as
