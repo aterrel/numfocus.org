@@ -145,7 +145,7 @@ Andy Terrel (President)
 
 
 Andy Terrel received his PhD in computer science at the University of Chicago
-in 2010. He is currently the Chief Science Officer at Continuum Analytics.  His major emphasis of research
+in 2010. He is currently the Chief Technology Officer at Fashion Metric.  His major emphasis of research
 has been on the automation of numerical methods on high performance computing
 resources. To this end, he has provided numerous contributions to a wide
 variety of open source projects, including the popular FEniCS project and
