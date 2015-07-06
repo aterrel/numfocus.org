@@ -98,10 +98,22 @@ Julia programs are organized around `multiple dispatch`_; by defining functions 
     :alt: Matplotlib logo
     :height: 65px
 
+.. raw:: html
+
+   <div style="float:right">
+   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+   <input type="hidden" name="cmd" value="_s-xclick">
+   <input type="hidden" name="hosted_button_id" value="X9T4KLZT2794S">
+   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+   </form>
+   </div>
+
 2D plotting library for Python that produces high quality figures that can be
 used in various hardcopy and interactive environments.  Matplolib is
 compatible with Python scripts and the Python and IPython shells, web
 application servers, and six graphical user interface toolkits.
+
 
 `rOpenSci`_
 ------------
