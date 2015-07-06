@@ -92,6 +92,17 @@ Julia is a high-level, high-performance dynamic programming language for technic
 
 Julia programs are organized around `multiple dispatch`_; by defining functions and overloading them for different combinations of argument types, which can also be user-defined. For a more in-depth discussion of the rationale and advantages of Julia over other systems, see the following highlights or read the `introduction`_ in the `online manual`_.
 
+`Matplotlib`_
+--------------
+.. image:: /media/img/projects/matplotlib.png
+    :alt: Matplotlib logo
+    :height: 65px
+
+2D plotting library for Python that produces high quality figures that can be
+used in various hardcopy and interactive environments.  Matplolib is
+compatible with Python scripts and the Python and IPython shells, web
+application servers, and six graphical user interface toolkits.
+
 `rOpenSci`_
 ------------
 .. image:: /media/img/projects/ropensci_logo.png
@@ -186,17 +197,6 @@ Python. The SciPy library depends on NumPy, which provides convenient and fast
 N-dimensional array manipulation. The SciPy library is built to work with NumPy
 arrays, and provides many user-friendly and efficient numerical routines such
 as routines for numerical integration and optimization.
-
-`Matplotlib`_
---------------
-.. image:: /media/img/projects/matplotlib.png
-    :alt: Matplotlib logo
-    :height: 65px
-
-2D plotting library for Python that produces high quality figures that can be
-used in various hardcopy and interactive environments.  Matplolib is
-compatible with Python scripts and the Python and IPython shells, web
-application servers, and six graphical user interface toolkits.
 
 `Cython`_
 -------------
