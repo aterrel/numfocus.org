@@ -14,5 +14,8 @@ Leah Silen has been with NumFocus from its beginning, working with the founding 
 
 Gina Helfrich (Communications Director)
 -------------------------------
-
+.. image:: /media/img/board/gina-helfrich.jpg
+    :height: 150px
+    :alt: Gina Helfrich
+    
 Gina Helfrich received her PhD in Philosophy from Emory University. Formerly director of the women's center at Harvard, Gina is an advocate for women and diversity in technology. In addition to being a sought-after speaker and consultant, she has founded several entrepreneurial projects and served on a number of nonprofit and educational boards. Gina joined NumFOCUS in 2015.
