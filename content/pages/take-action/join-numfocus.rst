@@ -25,6 +25,8 @@ You can join NumFOCUS by completing the `Member Information Form <https://docs.g
   - Student or Retired: $32/yr
   - Lifetime Supporting Member: $4000 one time
 
+**To become a Supporting Member**, please `make your donation <|filename|donate.rst>`_ and fill out the `Member Information Form <https://docs.google.com/a/continuum.io/spreadsheet/viewform?usp=drive_web&formkey=dEt4MGJ2Rk0zSFJLTHNIMGhGWDdTYVE6MQ#gid=0>`_.
+
 The following categories of membership demonstrate special
 recognition by the NumFOCUS community of members' contributions towards
 the goals of NumFOCUS.
