@@ -5,7 +5,7 @@ Joining NumFOCUS
 
 NumFOCUS was formed in 2012 with the goal of "promoting the use of accessible and reproducible computing in science and technology."  The Foundation's work is largely centered around Python and its tools.  
 
-NumFOCUS is excited to announce membership is now open!  Community involvement is critical to supporting NumFocus' projects and making Python more visible in the scientific and engineering community.
+Community involvement is critical to supporting NumFocus' projects and making Python more visible in the scientific and engineering community.
 
 How To Join NumFOCUS
 --------------------
@@ -18,7 +18,9 @@ You can join NumFOCUS by completing the `Member Information Form <https://docs.g
 - **Community Member**: Anyone may become a Community Member by filling out the `Member Information Form <https://docs.google.com/a/continuum.io/spreadsheet/viewform?usp=drive_web&formkey=dEt4MGJ2Rk0zSFJLTHNIMGhGWDdTYVE6MQ#gid=0>`_.  Community Members can become involved in NumFOCUS through any of the avenues listed above.
 
 
-- **Supporting Member**: Individuals who support NumFOCUS with an annual financial contribution.  Through their donation, Supporting Members provide crucial assistance to the ecosystem of NumFOCUS projects.   Supporting Members also enjoy the right to vote on certain Foundation actions, and receive a 30% discount on `PyData <http://pydata.org/>`_ conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from `Continuum <http://continuum.io>`_).  Minimum yearly dues for Supporting Members are:
+- **Supporting Member**: Individuals who support NumFOCUS with an annual financial contribution.  Through their donation, Supporting Members provide crucial assistance to the ecosystem of NumFOCUS projects.   Supporting Members also enjoy the right to vote on certain Foundation actions, and receive a 30% discount on `PyData <http://pydata.org/>`_ conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from `Continuum <http://continuum.io>`_).  
+
+Minimum yearly dues for Supporting Members are:
 
   - Professional: $128/yr
   - Early Professional (<5 years after school): $64/yr
@@ -61,11 +63,266 @@ found on the `sponsorship page <|filename|sponsorship.rst>`_, but all members of
 
 **Other advantages of membership include:**
 
--  20% Discount on PyData conferences
--  Discounts on products - (e.g. 10% off IOPro from Continuum).
+-  20% Discount on PyData conferences (Supporting Memberships only)
+-  Discounts on products - (e.g. 10% off IOPro from Continuum) (Supporting Memberships only)
 -  Networking with others in the scientific and engineering Python community
 -  A chance to have greater insight into NumFOCUS and to influence its work
 -  A chance to provide real support to open source projects that you use
 -  Opportunity to highlight one’s personal or corporate involvement with the foundation
 
 Full details on membership may be found in the amended `bylaws <|filename|/media/docs/bylaws.pdf>`_.
+
+**Thank you to everyone who has joined NumFOCUS as a 2015 Member!**
+
+Samantha Ahern
+
+Denis Akhiyarov
+
+Stephanie Allen
+
+Ankur Ankan
+
+Arnaldo Cristián Antuña
+
+Tim Arnold
+
+Toby Balfre
+
+Sean Barberie
+
+Trevor Bekolay
+
+Sylvain Bellemare
+
+Matthew Bergkoetter
+
+Milap Bhojak
+
+Gerry Blais
+
+Bennie Blunt Jr
+
+Olga Botvinnik
+
+Carlos Brandt
+
+Hugo Brito Lima
+
+Tyson Burghardt
+
+Jeff Byrne
+
+Endrit Bytyqi
+
+Carlos Cardenas
+
+Mauro Cavalcanti
+
+Abhishek Chakraborty
+
+Vincent Chow
+
+Andrew Christianson
+
+Katherine Chuang
+
+Andrew Collette
+
+Peadar Coyle
+
+Christoph Deil
+
+Akash Dhruv
+
+Steve Dower
+
+Martin Durant
+
+Bence Faludi
+
+Sameera Fernando
+
+Clark Fitzgerald
+
+Charles Flynn
+
+Urbano Franca
+
+Matthew Frank
+
+Jim Garrison
+
+Bimal Gaudel
+
+Sandra Gesing
+
+June Gothberg
+
+Shubham Goyal
+
+Jason Grout
+
+Harsh Gupta
+
+Matt Hall
+
+Saad Hamdan
+
+Megat Harun Al Rashid bin Megat Ahmad
+
+Hillebrand 
+
+Edwin Hu
+
+Thien-Bach Huynh
+
+Takahiro Ikeuchi
+
+Paul Ivanov
+
+Steve Jeffers
+
+Vikram Chandra Jha
+
+Rohit Joshi
+
+Vishal Kalaskar
+
+Kyle Kelley
+
+David Ketcheson
+
+Tejas Khot
+Jennifer Klay
+
+Sergii Konovalenko
+
+Margo Kulkarni
+
+Stefan Kupstaitis-Dunkler
+
+Chandrashekar kuyyamudi
+
+Jeremiah Lant
+
+Guofan Lu
+
+M A
+
+A Macbee
+
+Brian Magill
+
+Damon McDougall
+
+Mark Meanwell
+
+Sheila Miguez
+
+Justin Mitchell
+
+Hamid Mokhtarzadeh
+
+Peter Morgan
+
+Sandeep Nair
+
+Pariksheet Nanda
+
+Francisco J. Navarro-Brull
+
+Noemi 
+
+Dan O'Huiginn
+
+Bernard Ojengwa
+
+Travis Oliphant
+
+Rodolfo Oliveira
+
+Andrew Owens
+
+Ian Ozsvald
+
+Saleh Paghe
+
+Atanas Pavlov
+
+Dale Phillips
+
+Robert Pröpper
+
+David Pugh
+
+Rajit
+
+Gunnar Rätsch
+
+Srinivasa Reddy Kunduru
+
+Charles Reid
+
+Donald Rist
+
+Sergio Rivera
+
+Cesar B. Rocha
+
+Amir Sadoughi
+
+Michael Sarahan
+
+Jeffrey Schafer
+
+Stefan Schwarzburg
+
+Jennifer Shelton
+
+Akira Shibata
+
+B. Eugene Smith
+
+Jonathan A. Smith
+
+Sukesh
+
+Matthew Terry
+
+Garrett O. Thomas
+
+Marc-Olivier Titeux
+
+Vicky Twomey-Lee
+
+Vishal Uchil
+
+Nicholas Ursa
+
+Frans van Dunné
+
+Nelle Varoquaux
+
+Jens von der Linden
+
+Alexander Vyushkov
+
+Manish Wadhwani
+
+Zichen Wang
+
+Carol Willing
+
+Eric Wong
+
+Matthaus Woolard
+
+Dan Xu
+
+Kai Yang
+
+Mahdi Ozbak Zaei
+
+Esteban Zapata
+
+Michael Zingale
