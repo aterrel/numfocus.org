@@ -112,8 +112,6 @@ Tyson Burghardt
 
 Jeff Byrne
 
-Endrit Bytyqi
-
 Carlos Cardenas
 
 Mauro Cavalcanti
@@ -165,8 +163,6 @@ Jason Grout
 Harsh Gupta
 
 Matt Hall
-
-Saad Hamdan
 
 Megat Harun Al Rashid bin Megat Ahmad
 
@@ -221,8 +217,6 @@ Sheila Miguez
 
 Justin Mitchell
 
-Hamid Mokhtarzadeh
-
 Peter Morgan
 
 Sandeep Nair
@@ -249,8 +243,6 @@ Saleh Paghe
 
 Atanas Pavlov
 
-Dale Phillips
-
 Robert Pröpper
 
 David Pugh
@@ -260,8 +252,6 @@ Rajit
 Gunnar Rätsch
 
 Srinivasa Reddy Kunduru
-
-Charles Reid
 
 Donald Rist
 
@@ -309,11 +299,7 @@ Alexander Vyushkov
 
 Manish Wadhwani
 
-Zichen Wang
-
 Carol Willing
-
-Eric Wong
 
 Matthaus Woolard
 
