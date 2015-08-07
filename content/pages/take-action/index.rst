@@ -11,3 +11,6 @@ Ways to Support NumFOCUS
 * `Donate to NumFOCUS <|filename|donate.rst>`_ -- Your money will go to help support projects that are critical to the success of science. 
 * `Become a Corporate Sponsor <|filename|sponsorship.rst>`_ -- Have your company support the tools they depend on! 
 * `Join the Discussion <|filename|mailing-list.rst>`_ -- Interact with the community via webforums and social media.
+
+.. raw:: html
+ :file: smile.html
