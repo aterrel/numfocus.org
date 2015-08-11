@@ -27,8 +27,8 @@ How to Donate
 -------------
 
 There are many ways to give. We have tried to make it as simple as
-possible to donate to NumFOCUS. You can use any of the following payment
-providers.
+possible to donate to NumFOCUS. You can use any of the payment
+providers listed below.
 
 
 * **PayPal** - (2.90% + $0.30 / transaction)
@@ -75,8 +75,13 @@ providers.
      Austin, TX 78709
 
 
+
+`Click here to donate to a specific NumFOCUS project.`_
+
 **Your personal contribution is greatly appreciated!**
 
 .. _pdf for preview: |filename|/pdfs/GranteeGrantorFSA.pdf
 .. _LaTeX template: https://github.com/numfocus/fiscal-sponsorship 
 .. _corporate sponsorship page: |filename|/pages/take-action/sponsorship.rst
+.. _Click here to donate to a specific NumFOCUS project.: |filename|/pages/projects/index.rst
+
