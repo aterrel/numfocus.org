@@ -18,7 +18,7 @@ You can join NumFOCUS by completing the `Member Information Form <https://docs.g
 - **Community Member**: Anyone may become a Community Member by filling out the `Member Information Form <https://docs.google.com/a/continuum.io/spreadsheet/viewform?usp=drive_web&formkey=dEt4MGJ2Rk0zSFJLTHNIMGhGWDdTYVE6MQ#gid=0>`_.  Community Members can become involved in NumFOCUS through any of the avenues listed above.
 
 
-- **Supporting Member**: Individuals who support NumFOCUS with an annual financial contribution.  Through their donation, Supporting Members provide crucial assistance to the ecosystem of NumFOCUS projects.   Supporting Members also enjoy the right to vote on certain Foundation actions, and receive a 30% discount on `PyData <http://pydata.org/>`_ conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from `Continuum <http://continuum.io>`_).  
+- **Supporting Member**: Individuals who support NumFOCUS with an annual financial contribution.  Through their donation, Supporting Members provide crucial assistance to the ecosystem of NumFOCUS projects.   Supporting Members also enjoy the right to vote on certain Foundation actions, and receive a 20% discount on `PyData <http://pydata.org/>`_ conferences and additional discounts on products (e.g. 20% off IOPro and Accelerate from `Continuum <http://continuum.io>`_).  
 
 Minimum yearly dues for Supporting Members are:
 
