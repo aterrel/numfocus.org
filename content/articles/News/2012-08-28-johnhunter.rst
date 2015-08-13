@@ -46,7 +46,7 @@ to the address below.  Thank you for your generosity!
     <input type="image"
            alt="PayPal - The safer, easier way to pay online!" name="submit"
            src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /><br />
-    <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+    <img alt="." src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
           width="1"
           height="1"
           border="0"/>

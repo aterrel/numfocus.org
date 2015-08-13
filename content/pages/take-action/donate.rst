@@ -42,7 +42,7 @@ providers listed below.
                 border="0"
                 name="submit"
                 alt="PayPal - The safer, easier way to pay online!"/><br />
-         <img alt=""
+         <img alt="."
                border="0"
                src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
                alt="pixel"
