@@ -86,15 +86,23 @@ Arnaldo Cristián Antuña
 
 Tim Arnold
 
+Peter W Bachant
+
 Toby Balfre
 
 Sean Barberie
+
+Angus Bayley
+
+J Beecher-Deighan
 
 Trevor Bekolay
 
 Sylvain Bellemare
 
 Matthew Bergkoetter
+
+Praveen Bhamidipati
 
 Milap Bhojak
 
@@ -104,6 +112,8 @@ Bennie Blunt Jr
 
 Olga Botvinnik
 
+Francois Boulogne
+
 Carlos Brandt
 
 Hugo Brito Lima
@@ -111,6 +121,8 @@ Hugo Brito Lima
 Tyson Burghardt
 
 Jeff Byrne
+
+Grayson Calhoun
 
 Carlos Cardenas
 
@@ -124,9 +136,15 @@ Andrew Christianson
 
 Katherine Chuang
 
+Crockett Cobb
+
 Andrew Collette
 
+Sophia Collier
+
 Peadar Coyle
+
+Alain Cuvillier
 
 George Dean
 
@@ -160,6 +178,8 @@ June Gothberg
 
 Shubham Goyal
 
+Francisco Gracia
+
 Jason Grout
 
 Harsh Gupta
@@ -167,6 +187,8 @@ Harsh Gupta
 Matt Hall
 
 Megat Harun Al Rashid bin Megat Ahmad
+
+Nick Hawes
 
 Hillebrand 
 
@@ -178,7 +200,9 @@ Takahiro Ikeuchi
 
 Paul Ivanov
 
-Kyoungrok Jang
+Satish Kumar Iyemperumal
+
+Kyoung Rok Jang
 
 Steve Jeffers
 
@@ -188,14 +212,23 @@ Rohit Joshi
 
 Vishal Kalaskar
 
+Talha Karabiyik
+
+Matthew Kelcey
+
 Kyle Kelley
 
 David Ketcheson
 
 Tejas Khot
+
 Jennifer Klay
 
+Ruben Knudsen
+
 Sergii Konovalenko
+
+Matvei Kotov
 
 Margo Kulkarni
 
@@ -204,6 +237,12 @@ Stefan Kupstaitis-Dunkler
 Chandrashekar kuyyamudi
 
 Jeremiah Lant
+
+Kwangchun Lee Lee
+
+Young Lee
+
+Ivan Levkivskyi
 
 Guofan Lu
 
@@ -217,9 +256,13 @@ Damon McDougall
 
 Mark Meanwell
 
+Piotr Migdal
+
 Sheila Miguez
 
 Justin Mitchell
+
+Yosa D Miyasato
 
 Peter Morgan
 
@@ -251,11 +294,17 @@ Joel Parker
 
 Atanas Pavlov
 
+Ramabhadra Penmetsa
+
+Jacob Perkins
+
 Robert Pröpper
 
 David Pugh
 
 Rajit
+
+Karthik Marudhachalam Ramasamy
 
 Gunnar Rätsch
 
@@ -269,9 +318,21 @@ Cesar B. Rocha
 
 Amir Sadoughi
 
+Wouter Saelens
+
+John Salvatier
+
+Oka Saputra
+
 Michael Sarahan
 
+Tadas Sasnauskas
+
+Ivan Savov
+
 Jeffrey Schafer
+
+Pascal Schetelat
 
 Stefan Schwarzburg
 
@@ -279,11 +340,19 @@ Jennifer Shelton
 
 Akira Shibata
 
+Saravanan Sivaswamy
+
+Rachel Slaybaugh
+
 B. Eugene Smith
 
 Jonathan A. Smith
 
 Sukesh
+
+Motoe X Suzuki
+
+Rakshak Talwar
 
 Matthew Terry
 
@@ -292,6 +361,8 @@ Garrett O. Thomas
 Marc-Olivier Titeux
 
 Mathew Topper
+
+Sam Triolo
 
 Vicky Twomey-Lee
 
@@ -309,16 +380,28 @@ Alexander Vyushkov
 
 Manish Wadhwani
 
+Johno Whitaker
+
+Daniel Williams
+
 Carol Willing
 
 Matthaus Woolard
 
+Jinsong Wu
+
 Dan Xu
+
+Eric Xu
 
 Kai Yang
 
 Mahdi Ozbak Zaei
 
+Peter Zahuczki
+
 Esteban Zapata
+
+Li Zhenbo
 
 Michael Zingale
